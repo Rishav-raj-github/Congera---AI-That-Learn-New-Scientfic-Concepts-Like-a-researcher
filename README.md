@@ -49,3 +49,15 @@ This is an evolving, research-style system — not a polished product (yet). Rig
 
 System Architecture
 
+
+
+
+| to achieve                          | Technology  used at present                     |
+| ------------------------------ | ------------------------------- |
+| Understand scientific language | GPT-4, Transformers             |
+| Extract structured meaning     | spaCy, NLTK                     |
+| Store & visualize concept maps | NetworkX, Neo4j, Graphviz       |
+| Reason like a human            | Custom logic modules            |
+| Track knowledge over time      | LangChain memory, belief states |
+| Make it interactive            | Streamlit or Gradio             |
+| Keep it reproducible           | Docker, Python                  |
